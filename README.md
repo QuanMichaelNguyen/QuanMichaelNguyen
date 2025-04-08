@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Nguyen</h1>
 <h3 align="center">A passionate software engineer from University of South Florida</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Python, Java, Typescript, MongoDB, Express.js, React, Node.js**
 
