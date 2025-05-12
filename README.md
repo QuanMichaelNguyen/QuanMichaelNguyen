@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Quan Nguyen</h1>
 <h3 align="center">A passionate software engineer from University of South Florida</h3>
 
 - 🌱 I’m currently learning **Go**
