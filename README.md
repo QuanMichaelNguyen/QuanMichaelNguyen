@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quan Nguyen</h1>
 <h3 align="center">A passionate software engineer from University of South Florida</h3>
 
-- :shipit: Computer Science  @ [**University of South Florida**][dp]
-- :shipit: Software Engineer Intern @ [**Ryco.io**][microsoft]
-- :shipit: Software Engineer Intern @ [**Secreterrier LLC**][meta]
-- :shipit: Software Engineer Intern @ [**Dual Drinks**][nolymitai]
+- :shipit: Computer Science  @ [**University of South Florida**]
+- :shipit: Software Engineer Intern @ [**Ryco.io**]
+- :shipit: Software Engineer Intern @ [**Secreterrier LLC**]
+- :shipit: Software Engineer Intern @ [**Dual Drinks**]
 
 - 🌱 I’m currently learning **Go**
 
