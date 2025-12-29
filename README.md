@@ -3,7 +3,6 @@
 
 - :shipit: Computer Science  @ [**University of South Florida**]
 - :shipit: Software Engineer Intern @ [**Ryco.io**]
-- :shipit: Software Engineer Intern @ [**Secreterrier LLC**]
 - :shipit: Software Engineer Intern @ [**Dual Drinks**]
 
 - 🌱 I’m currently learning **Go**
