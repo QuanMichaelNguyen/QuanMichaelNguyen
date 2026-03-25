@@ -2,16 +2,15 @@
 <h3 align="center">A passionate software engineer from University of South Florida</h3>
 
 - :shipit: Computer Science  @ [**University of South Florida**]
+- :shipit: Incoming Software Engineer Intern @ [**HubSpot**]
 - :shipit: Software Engineer Intern @ [**Ryco.io**]
 - :shipit: Software Engineer Intern @ [**Dual Drinks**]
 
-- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Python, Java, Typescript, MongoDB, Express.js, React, Node.js**
+- 💬 Ask me about **Golang, Python, Java, Typescript, MongoDB, Express.js, React, Node.js**
 
 - 📫 How to reach me **nguyenbaquan2005@gmail.com**
 
-- ⚡ Fun fact **I love dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
